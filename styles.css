@@ -1,0 +1,118 @@
+
+body {
+    background-color: #6b0510;
+    margin:0px;
+    
+    
+}
+
+h1 {
+    justify-content: center;
+    align-self: center;
+    font-size: 50px;
+}
+
+
+
+
+.header {
+    background-color:black;
+    display: flex;
+    padding: 15px;
+    margin:0px;
+    justify-content: end;
+    border-radius: 5px;
+
+  
+}
+
+.header a {
+    margin-left: 10px;
+    color:white;
+}
+
+img{
+    width: 400px;
+    height:200px;
+    margin-right: 30px;
+
+}
+
+
+
+.main {
+    display: flex;
+    padding-left: 130px;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    border-radius: 20px;
+    color:white;
+
+}
+
+.main p{
+    justify-content: center;
+    align-self: center;
+    padding-left: 500px;
+    padding-right: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main img{
+    margin-left: 300px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+.main2 {
+    display:flex;
+    height:300px;
+
+    padding-right: 200px;
+    background-color: #8a0615 ;
+    background-color: white  ;
+    border-radius: 20px;
+
+    
+}
+
+.main2 h1{
+    font-size: 50px;
+    justify-content: center;
+    align-self: center;
+}
+
+
+.main2 p  {
+    padding-right:300px;
+    padding-left: 100px;
+    justify-content: center;
+    align-self: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+        
+}
+
+
+
+.head {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+
+.bib {
+    font-size: 50px;
+    color: white;
+}
+
+
+.bruh {
+    text-align: center;
+}
